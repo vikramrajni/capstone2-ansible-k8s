@@ -7,3 +7,6 @@
 
 # tf variable files, may include sensitive data
 *.tfvars
+
+# has info about my AWS account number
+kubeconfig.yaml
